@@ -32,7 +32,7 @@ sudo apt install lldpd
 
 ```
 lsmod | grep 8021q
-'''
+```
 
 загружаем:
 ```
